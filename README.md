@@ -13,6 +13,8 @@ Contract ABI can be found in: `./eth-contracts/build/contracts/*.json`
 
 The goal of this project to create a decentralized house listing service. The real estate properties are represented by ERC721 tokens. We are using the zk-SNARKs toolbox from ZoKrates to establish a verification mechanism before minting each tokens. Finally, the tokens are listed and able for exchange on the blockchain market place OpenSea.
 
+![Storefront](./storefront.png?raw=true "Storefront")
+
 ## Steps
 ### Installation
 
