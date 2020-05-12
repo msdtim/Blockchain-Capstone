@@ -29610,7 +29610,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.23",
-  "updatedAt": "2020-05-12T13:22:08.457Z",
+  "updatedAt": "2020-05-12T15:10:08.357Z",
   "devdoc": {
     "methods": {
       "isApprovedForAll(address,address)": {
