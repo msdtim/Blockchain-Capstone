@@ -10,6 +10,7 @@ contract('TestERC721Mintable', accounts => {
             this.contract = await ERC721MintableComplete.new({from: account_one});
 
             // TODO: mint multiple tokens
+            
         })
 
         it('should return total supply', async function () { 
