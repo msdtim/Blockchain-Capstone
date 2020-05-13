@@ -2,8 +2,10 @@
 
 This is the capstone project of the Udacity Blockchain Developer Nanodegree Program. I am using the knowledge gained in the course in order to build a decentralized housing product. 
 
-Contract Address:
-[0x0Db1ba13BB611FD80D64ef369b48164087010DBA](https://rinkeby.etherscan.io/address/0x0Db1ba13BB611FD80D64ef369b48164087010DBA)
+Contract Addresses:
+1. SquareVerifier: 0xC32921D14Ba5a0e9D56F64f87480Bd368473daf5
+
+2. SolnSquareVerifier: [0x0Db1ba13BB611FD80D64ef369b48164087010DBA](https://rinkeby.etherscan.io/address/0x0Db1ba13BB611FD80D64ef369b48164087010DBA)
 
 OpenSea Storefront: https://rinkeby.opensea.io/assets/real-estate-token-v8
 
